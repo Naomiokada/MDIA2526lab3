@@ -2,4 +2,4 @@
 Welcome to my project
 
 # About me
-I am Naomi
+I am Naomi. Add something
